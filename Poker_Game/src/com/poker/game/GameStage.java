@@ -1,0 +1,10 @@
+package com.poker.game;
+
+public enum GameStage {
+
+    PRE_FLOP,
+    FLOP,
+    TURN,
+    RIVER,
+    SHOWDOWN
+}
