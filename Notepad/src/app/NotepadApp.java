@@ -1,7 +1,5 @@
 package app;
 
-// File: NotepadApp.java
-// Simple JavaFX Notepad Application
 
 import javafx.application.Application;
 import javafx.scene.Scene;
